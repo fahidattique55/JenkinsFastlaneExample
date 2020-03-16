@@ -5,5 +5,10 @@ default_platform :ios
 platform :ios do
    lane :example do
       puts("Fahid has updated first 🚀 lane")
+
+	cocoapods(
+	  podfile: "./Podfile"
+	)
+
    end
 end
