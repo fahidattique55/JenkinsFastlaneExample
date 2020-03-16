@@ -4,6 +4,6 @@ default_platform :ios
 
 platform :ios do
    lane :example do
-      puts("this is my first 🚀 lane")
+      puts("Fahid has updated first 🚀 lane")
    end
 end
