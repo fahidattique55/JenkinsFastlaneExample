@@ -4,6 +4,6 @@ default_platform :ios
 
 platform :ios do
    lane :example do
-      puts("Fahid has removed Cocoapods from repo.")
+      puts("Fahid & Kuan has removed Cocoapods from repo.")
    end
 end

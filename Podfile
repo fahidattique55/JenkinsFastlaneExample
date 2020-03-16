@@ -8,7 +8,7 @@ target 'JenkinsFastlaneExample' do
   # Pods for JenkinsFastlaneExample
 
 
-	pod 'FAPanels'
+#	pod 'FAPanels'
 
 
 end
